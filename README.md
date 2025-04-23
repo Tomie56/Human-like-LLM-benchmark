@@ -53,11 +53,4 @@ We analyze how models deal with everyday reasoning tasks, uncovering both streng
 
 ---
 
-## 🚀 Getting Started
 
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/your-username/humanlike-llm-eval.git
-cd humanlike-llm-eval
-pip install -r requirements.txt
