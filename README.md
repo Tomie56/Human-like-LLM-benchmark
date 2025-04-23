@@ -1,7 +1,5 @@
 # Human-like-LLM-benchmark
 
-# Bridging Human and Artificial Cognition in Large Language Models
-
 This project investigates **three critical dimensions** of human-like cognition in Large Language Models (LLMs):  
 **Humor Understanding**, **Emotional Intelligence**, and **Commonsense Reasoning**.
 
