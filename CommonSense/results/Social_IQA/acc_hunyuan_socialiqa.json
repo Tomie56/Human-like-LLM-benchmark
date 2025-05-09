@@ -1,0 +1,7 @@
+{
+  "model": "hunyuan",
+  "task": "socialiqa",
+  "accuracy": 0.812,
+  "correct": 203,
+  "total": 250
+}

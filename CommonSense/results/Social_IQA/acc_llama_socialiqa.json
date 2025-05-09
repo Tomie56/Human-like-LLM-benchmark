@@ -1,0 +1,7 @@
+{
+  "model": "llama",
+  "task": "socialiqa",
+  "accuracy": 0.808,
+  "correct": 202,
+  "total": 250
+}

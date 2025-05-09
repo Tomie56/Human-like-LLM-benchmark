@@ -1,0 +1,7 @@
+{
+  "model": "qwen",
+  "task": "socialiqa",
+  "accuracy": 0.624,
+  "correct": 156,
+  "total": 250
+}

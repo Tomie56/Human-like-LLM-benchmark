@@ -1,0 +1,7 @@
+{
+  "model": "hunyuan",
+  "task": "cqa",
+  "accuracy": 0.9,
+  "correct": 225,
+  "total": 250
+}

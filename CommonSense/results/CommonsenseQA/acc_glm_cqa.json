@@ -1,0 +1,7 @@
+{
+  "model": "glm",
+  "task": "cqa",
+  "accuracy": 0.884,
+  "correct": 221,
+  "total": 250
+}

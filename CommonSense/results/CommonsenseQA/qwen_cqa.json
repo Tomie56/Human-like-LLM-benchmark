@@ -1,0 +1,1752 @@
+[
+  {
+    "question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Sammy wanted to go to where the people were.  Where might he go?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To locate a choker not located in a jewelry box or boutique where would you go?",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Google Maps and other highway and street GPS services have replaced what?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "The fox walked from the city into the forest, what was it looking for?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "What home entertainment equipment requires cable?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "The only baggage the woman checked was a drawstring bag, where was she heading with it?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "The forgotten leftovers had gotten quite old, he found it covered in mold in the back of his what?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What do people use to absorb extra ink from a fountain pen?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "Where is a business restaurant likely to be located?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "Where do you put your grapes just before checking out?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Before getting a divorce, what did the wife feel who was doing all the work?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Johnny sat on a bench and relaxed after doing a lot of work on his hobby.  Where is he?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "James was cooling off two quickly.  He would die if he didn't find some way to stop what?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Of all the rooms in a house it was his favorite, the aromas always drew him to the what?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Bill is stuck in marsh when a man comes up to him peaking Cajun, where is he?",
+    "answerKey": "D",
+    "model_output": "[ERROR: Expecting value: line 1 column 1 (char 0)]",
+    "predicted": "?",
+    "correct": false
+  },
+  {
+    "question": "What is it called when you slowly cook using a grill?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "What type of person typically contracts illness?",
+    "answerKey": "D",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "Where would you expect to find a pizzeria while shopping?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "When eating everything on the tasting menu, what does one tend to feel?",
+    "answerKey": "B",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": false
+  },
+  {
+    "question": "What does playing soccer for a long time lead to?",
+    "answerKey": "E",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Which entrance would you use if you do not want to use the back entrance?",
+    "answerKey": "B",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": false
+  },
+  {
+    "question": "You can share files with someone if you have a connection to a what?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "The accelerator was controller via a hand throttle, and the foot pedals controlled the steering in the small what?",
+    "answerKey": "E",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": false
+  },
+  {
+    "question": "Sean was lying about the body, but he was very scared.  He constantly worried about what?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "The drug kingpin told his man to run errands, this was code to go to all the dealers to do what they had?",
+    "answerKey": "D",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "Though he could've kept going his body appreciated the rest, it had been constantly what during the day?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "Too many people want exotic snakes.  The demand is driving what to carry them?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "Joe suffered many consequences from stabbing a stranger to death.   Among them, the family of the victim did something to him. What was that?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "To prevent any glare during the big football game he made sure to clean the dust of his what?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "I have something in my head I want to share, what ways can I do that?",
+    "answerKey": "C",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "He wanted a house that was gated off from other places, where should he start looking?",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "Where in Southern Europe would you find many canals?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "What would a camper need to do before he or she can start cooking food?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "What could happen to a paper if you leave it outside even if it does not move?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Mark's semen was very thick, but after his vasectomy it was also what?",
+    "answerKey": "D",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "What is a great place to lay in the sun?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "Where would you find a seafood restaurant in the east coast of North America?",
+    "answerKey": "A",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": false
+  },
+  {
+    "question": "The president is the leader of what institution?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "Sitting to close while watching TV can cause what sort of pain?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "Where is a bald eagle safe?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "The game promised it was free, but the child's parents soon found themselves doing what for microtransactions?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "What kind of driving leads to accidents?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What is eating too much dinner likely to result in?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "What is a person chatting with friends likely hoping to accomplish?",
+    "answerKey": "E",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Jame's bare feet were burned as he walked, because the sunshine had made the surface hot.  Where might he have been?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "A fox was thirsty searching for water during the drought, where was he?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "What might be the result of a season of successful skiing?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "The sensor would just the distance then set off an alarm, the installation expert explained it was called a what kind of sensor?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "The man was eating lunch, but rushed when he looked at his watch, why did he rush?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "The evacuation became mandatory, so what came on the TV?",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "The person gave a good hands on what to show how to do the work?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Where would you see some people doing jumping jacks?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "The body guard was good at his duties, he made the person who hired him what?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Learning languages is difficult.  Even in a full immersion environment you're likely to make mistakes, mistakes will cause misinterpretation, which will be uncomfortable, which will cause what?,",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Jim enjoyed killing people, but he did it too often and the cops found out.  What might the cops do to him?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "Where is there usually a fiddle playing?",
+    "answerKey": "C",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "What is the only was to recover from exhaustion?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What would you do if you want to be able to earn money?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What is a grumpy person likely to have?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What do drugs do?",
+    "answerKey": "E",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "A beaver can destroy a machines functionality if they build their dam in this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "They decided to hash things out over drinks, after enough booze they were able to get close on a few things and what?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Where could a fungus grow and not be disturbed by sunlight?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Can you name a good reason for attending school?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What state south of Kentucky and north of Alabama will you find people playing the fiddle?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Though she made the cut years ago, its figurative scars would never what?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "What does sex often make happen in people?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Where would you see people in uniform playing with a ball?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "What kind of place could have a seafood restaurant?",
+    "answerKey": "C",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Who was the head of the branch yelling at?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "He made another call, he did this all day hoping people would what well to his offer?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "She needs to visit a bookshop after buying the latest fashion, where should she look?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Where could you see an advertisement while reading news?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "What is required to be good at playing tennis?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What state is the John Davis  Lodge toll road found in?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "The man went to clown college, he had always want to run away with the what?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Jamie wanted to reduce her waist size, but all of her efforts failed miserably.  She continued to do what?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "James felt himself losing consciousness.  He was frightened.  He didn't want this.  He was scared of what?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "If someone is aloof and self-important, what is their experience when meeting people?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "He was receiving workman's compensation, he had tripped over a metal rod while building where?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "John and James spent most of their time communicating with each other on their project.  The time required to communicate slowed their what?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "When you play around with your dog they will have?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Where would a person keep a book while it's being read?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "The student needed to  get some new pencils, where did he go?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "She loved buying products, she was driven by her what to shop more than any practical needs?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How does getting paid feel?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "The fat man refused to accept what was possible, he complained that he what the simplest activities?",
+    "answerKey": "D",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "Where can meat last a long time?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "What group of musicians will include someone playing the cello?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Where do bees congregate with red flowerS?",
+    "answerKey": "D",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": false
+  },
+  {
+    "question": "What is someone who gets angry after getting drunk likely to participate in?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "The teacher told all the students that listening was key, it was the main way they would gain what?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Stanley had a dream that was very vivid and scary. He had trouble telling it from what?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "The city's community garden was demolished for yet another what?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "WHat do cats get into when they are ripping things apart?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "What is a good result of losing weight?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "A person lived in my what?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "The skin was cut while chopping onions, where was this skin likely cut?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What might you feel after doing housework for hours?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "The accountant used a calculator regularly, he kept one at home and one at the what?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "At the end of your meal what will a waiter do?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "If you aren't glad, unhappy or gloomy, what illness may you have?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "You can hear testimony of how spirituality changes lives when you do what?",
+    "answerKey": "A",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": false
+  },
+  {
+    "question": "It was a great rest, she had never felt this much what in the morning?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "Which region has the most famous temple?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Where would you find a bee gathering pollen?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "Where would you put a folding chair if you do not plan to use it and you do not have any large doors in your house?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "If you're speaking to a lawyer about getting a divorce, what relationship status are you trying to end?",
+    "answerKey": "A",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "How do geese normally get from place to place?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "John was punching and punching at the wall but succeeded only in bloodying his knuckles. This was bad.  He would be unable to hold his tools if he injured what?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "Though it stayed strictly indoors, the small dog felt like it had all the space in the world in the what?",
+    "answerKey": "E",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "WHat leads to someone's death when they are very depressed?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "She was sick and staying in bed the day of the event, unfortunately this meant she was what?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "Where would a lizard surprise a person?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "They were getting together for the big game, he wasn't hosting but made sure to bring pretty of food with him over to where?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Who is likely yo have a caring heart?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "I'm looking for alcohol and fried foods, any suggestions?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "If I had a jar which was likely to spoil if left out, where would I want to put it?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "Sam went to Paris where he ordered a blowfish at a sushi place.  Where was Sam?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What will happen to skin pinched in something?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Sally lost her kite because she wasn't careful.  She thought that there was more string on the spool, but it slipped out of her fingers when she reached the what?.",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "The man uses grooming before a job interview, what is he trying to portray?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "Where would there be many people sitting in chair and listening to religious speech?",
+    "answerKey": "C",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": false
+  },
+  {
+    "question": "Where is a tabby cat likely to be happiest?",
+    "answerKey": "D",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "East coast areas such as Florida are found where?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "To learn must have the right book, to work efficiently what must one have?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "What is a mobile launching platform found in the ocean?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "There weren't potatoes but actually a snake in his what?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What could listening to music cause you to be?",
+    "answerKey": "C",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "If you want to make a big splash in a river with a rock, from where should you throw it?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "What is committing perjury likely to lead to?",
+    "answerKey": "B",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": false
+  },
+  {
+    "question": "The new play was the go to performance of the year, all the crowds would stand and what?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "\"There are 10 apples on an apple tree.  Three fall off.  Now there are X apples.\"  What is this an example of?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "Where are people likely to find food?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What might a kid do with his friend before going to play?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "What is a person who is well educated?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Ben was an alcoholic and was in an accident.  Because of his mistake, he spent 8 years somewhere. Where was he?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Where do you buy tickets at a ticket booth for games/",
+    "answerKey": "D",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": false
+  },
+  {
+    "question": "A soccer field that is not contained in a building would be where?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "Letters are sometimes delivered by hand through one of these.",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "John came to see Sam and Sam kicked him out.  Sam didn't like company.  He prefered what?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "If somebody likes temperatures cool, they might have more than one electric fan where?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "The president had to make a decision regarding the hate attack on his country, what did he do?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What's it called when you have seen something through an eyepiece?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "He had done a great job with the scary decorations, they were completely what?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "If you did well on the test, you might get an A as a what?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "If you tell you boss your suffering from boredom they'll likely tell you to get back to what?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "What is a good result of jogging?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "What is done to wood to attach something to it?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Where is a fox likely to be caught?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Where do you put a new dining table?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "Sometimes fighting inflation isn't even what, because it is so negligible?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What is likely to have more than one level in a city?",
+    "answerKey": "C",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": false
+  },
+  {
+    "question": "Where is likely to have a lot of fire extinguishers?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Where would someone learn to play an upright piano?",
+    "answerKey": "C",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "What is necessary for learning by yourself?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "John and Jane were a couple.  They were dating for a while and wanted to be together for even longer. For this reason, they did what?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What emotion does getting paid lead to?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Who is likely going in to a market?",
+    "answerKey": "C",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": false
+  },
+  {
+    "question": "What is a characteristic of thin glass?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What do you get for not moving your car during the required time?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "Bob's feet hurt from running barefoot on the hot pavement.  I lost his shoes, didn't know where they landed, and had to run from the corner store to his home.  About where did he run?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "Where would you be able to hear a bassoon played in an unpleasing fashion?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "John loved competing because he was very competitive.  He liked being about to divide people into what categories?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "The game was on sale.  I got it then because it was usually what?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "What could a massive building be if it is not constructed well?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Where could a printer be used by thousands of people?",
+    "answerKey": "A",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": false
+  },
+  {
+    "question": "What could prevent someone from buying chistmas presents?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What is the hope of playing sports without competition?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "They moved out of the city to have a master bedroom, what kind of home did they seek?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What could you add a line to?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Joe bought a ficus.  He thought it would look good in what part of his home?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Sarah wanted to by a new rug.  Ink spilled onto her old one.  Really, she didn't know what that thing had an inkwell in the first place.  What piece of furniture might have been on her run?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "When people discover something new while chatting with friends, why are they likely to continue talking?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "How can one's views change after learning about science?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "Traveling underwater has many dangers, such as low visibility causing what?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Where are people likely to stand at an intersection?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Janet knew she was dying from her injuries because she could feel herself doing what?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "An expressway can suffer from traffic, this traffic gets worse the closer you get to any what?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Where are there more telephone booths?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "John moved away from his family.  He was a bit upset that he had to do it, but he needed the job.  Still, he would have preferred it if the job were what?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "James complained that Alexa's electric guitar was too loud and he couldn't get any work done at home,  so she decided that she should get an acoustic guitar.  Where might she look for one?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What can someone feeling happiness fall into?",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "How might a person address someone who is leaving?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What does a chef do when working in the evening?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What would happen to a person if his or her money is stolen?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "The people in class were instructed to brainstorm ideas, how would they use their minds for this?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "Someone lacking immortality will one day be?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "After his mother saw his report card he knew he was going to be doing housework, what could have prevented this?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "Glass that hasn't been treated to be extra strong is what?",
+    "answerKey": "B",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": false
+  },
+  {
+    "question": "If you've thrown a rod you've done damage to what?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "What enables most people to transport themselves?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What do people in the same family often share?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What is an area with no grass where I can get things to sell at a roadside stand?",
+    "answerKey": "E",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Where do kids find fish in their backyards?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Where must one wear a white shoe?",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "James chose to not to print the cards, because he wanted to be more personal. What type of cards did he choose, instead?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "They checked the weather one more time during the flight, they were on their way to paradise and wanted it to what?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What are you hoping to achieve when talking to someone?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What place of work might you find a hairpin?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What can go on a football field?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "What has a master of their craft done about that craft?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "If your watching television and accomplish nothing what have you done?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "He was in a cabin in the woods, through the window he saw a fox where?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "The hippy wanted peace with all humans, he had strong what for them all?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "He was a very sharp engineer, but when it came to the details his calculations could were often what?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "In the middle of the day what will someone do because of being hungry?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "John enjoyed his time visiting the museum.  He wanted to spend more time there, so that he could study the exhibits more.   He was a very academic person and loved doing what?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What will telling many people about an embarrassing situation lead to?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "The electric motor powered many important things, including one if almost every house. Name this item?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "Where can peanut butter be stored?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Where would you play a board game with your family?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "James needed a garage because he spent a lot of money on what?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "If I am a person, I have a unique ability to do what?",
+    "answerKey": "B",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": false
+  },
+  {
+    "question": "Two friends wanted to spend a quiet evening together, what did they go see?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "If an animal is tired, what is it likely to do?",
+    "answerKey": "B",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": false
+  },
+  {
+    "question": "Where would you sit in a chair to watch four-legged animals complete?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "If you were looking for a lemur where would you find it?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "John ran out of pencils.  Where did  he go to get more?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "When would you be able to see your reflection in a piece of wood?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What emotion do people expressing themselves show when they trip in front of a crowd and break their leg?",
+    "answerKey": "E",
+    "model_output": "E",
+    "predicted": "E",
+    "correct": true
+  },
+  {
+    "question": "He waited for his friend at the squash court, but he was worried his friend thought he meant the at the other end of the public what?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "When you plant a garden you can harvest what to eat?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "Where is basketball court likely to be outdoors?",
+    "answerKey": "B",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "What could a balalaika be needed for?",
+    "answerKey": "D",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "What type of home is most likely to have an attic filled with historical items?",
+    "answerKey": "C",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Jackson is a popular city name, but the one with a governor's office is where?",
+    "answerKey": "E",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "Where is microphone boom likely to be used to record an album?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What is the worst outcome of an injury?",
+    "answerKey": "A",
+    "model_output": "[ERROR: HTTPSConnectionPool(host='api.siliconflow.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))]",
+    "predicted": "?",
+    "correct": false
+  },
+  {
+    "question": "How is someone who loves their TV likely to feel about their remote?",
+    "answerKey": "A",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "The man wanted to take a bus, but all the chars were full of people doing what?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Bob thought that his Pokemon cards were common and worthless, but he was wrong about them. They were really what?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "A wife asks a husband to stop being married to her, what is he likely to feel even with friends?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "The camper looked up at the vast night sky, it left him feeling mighty what?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Though nearby, an apple from an apple tree where would be an imported product to the USA?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "The old man was retired and liked the simple things, he would do crossword puzzle every morning simply just to do what?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What would you change the learning process to be if someone does not like learning?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To properly instruct children attending school you would need a great deal of what?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "If done correctly grooming pet's nails generally does not cause this?",
+    "answerKey": "C",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "The man was cleaning clothes for his date, what was he looking to achieve?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "The person was looking up airline and hotel prices, what was he looking to do?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "The person put on lotion, what did they want?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Eating breakfast in bed can make you feel what, assuming that you don't spill anything?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "What would an adult man do to get ready for work?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "The woman picked from an apple tree while surrounded by other trees, where was she?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Mom is tidying a house, where would she put the loose dictionary?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "The judge did not take this part of the job lightly, the man was guilty but it was his passing sentence that condemned the man to what?",
+    "answerKey": "D",
+    "model_output": "D",
+    "predicted": "D",
+    "correct": true
+  },
+  {
+    "question": "Simon bought a cow because he wanted to put it to work.   He didn't want any meat for it.  Where might Simon be taking the cow?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  }
+]

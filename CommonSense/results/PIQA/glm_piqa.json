@@ -1,0 +1,1752 @@
+[
+  {
+    "question": "How do I ready a guinea pig cage for it's new occupants?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "dresser",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "To fight Ivan Drago in Rocky for sega master system.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Make outdoor pillow.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "ice box",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Remove soap scum from shower door.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Recycle a spray bottle for a new cleaner.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How do you attach toilet paper to a glass jar?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How to make tissue paper window decorations?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Neatly wrap up an extension cord.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Extend life of flowers in vase.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "how do you put eyelashes on?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Find spices easily in the kitchen.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "peeler",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "How to clean blinds without tearing them up",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What material is a steel rocking chair made out of?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To get a video game console for a cheap price,",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How do you properly prepare a steak.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To cream butter and sugar together, you can",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How to best cut the meat to place on a grill?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What alcohol do you pour for a mojito?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How to start an automatic transmission car.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How to make sure all the clocks in the house are set accurately?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How do you make plain toast?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Make a bulletin board.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How do you make raw nuts have more flavor.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To prepare carrots before cooking with them, you can",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "plastic bag",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To discourage house flies from living in your home,",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "How to make Caramel Chocolate chip Girl Scout Cookie Vanilla Ice cream at home.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To combine cake ingredients.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To prevent gunk buildup in cup holders of a car,",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To quarter biscuits, you can",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To make a bedroom temperature colder without a fan or air conditioner,",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how to get fluffy cookies",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How to brine a turkey before cooking?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To spare the plant while picking lettuce",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "To cook perfectly golden pancakes,",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "generate poetry by using random words.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To fill a bucket with sand",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To set the J bolt into the concrete mix in the mold.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Eliminate odors in the laundry room.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How do I fill holes and tiny gaps in the concrete when making a concrete countertop?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "a bucket",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "When I'm deep frying a turkey, how defrosted should it be?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How do you remove gum from being stuck in hair?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "fire",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "How long should liquid nails dry?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To get the best deal at amusement parks,",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "One seeks to make a cord weave.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To make wires look like tree branches on a wire tree.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How do I remove wrinkles from a new leather jacket that has never been worn",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "Kill fruit flies easily.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To prevent splinters from cut wood,",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Trim apple trees.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How to easily form a perfectly round snowball?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How do I get my coffee to taste less dark?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how do you use headphones?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "After staining wood, you should",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How to order room service",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How to sneak past guards in Metal Gear NES?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What are the benefits of anti-allergen vacuum cleaners?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How do you make an oil and vinegar dressing?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Avoid germs from hotel bed.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To allow the oil for the turkey fryer to reach the correct cooking temp",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how to clean a container that held melted wax",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How to light a candle with a deep seated wick?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To shape duct tape into a perfect circle.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What can you do when someone presses all the buttons on the elevator then gets off and you are in a hurry?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What materials are needed to hand sew an article of clothing?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To make a hard shelled taco,",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "One wants to eat Vegetarian.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How do I find something I lost on the carpet?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To make small candles to float in water,",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To clean your microwave without having to scrub it.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To bend a PVC conduit,",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Make a camping shower head.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Make Halloween lanterns.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "change a lightbulb in a ceiling fan",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Which direction to properly install an air filter.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Protect a bare shiny piece of metal, like a hinge, from rusting.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "making a picture Frame on Your Wrist",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How do you bake a cheesecake properly?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Easy way to hang your shoes in your closet.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Get cheap pizza.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How do you harvest honey from a bee box?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What supplies are needed to make a  small decorative Christmas tree?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How to create Dorodango (Japanese mud-art).",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How to sleep in proper posture?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To extend the shelf life of lettuce,",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To dye the white fondant to make the fondant roses",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To make seed starter pots",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To prepare a loaf pan for Blueberry Lemon Financiers.",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "How can I raise and lower a picavet with a camera attached so it can be flown with a kite?",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "Increase ability to learn something new.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "When building a survival fishing kit, what can you use to make fishing hooks?",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "How can I set my umbrella up on my deck more effectively?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To remove sharpie pen from a couch,",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To remove folds and creases from a sewing pattern",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how to get perfectly done grilled meat",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "how do you floss your teeth with a toothpick?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how to winterize windows",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "PET ANT",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How can I get free gym memberships?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how do you use cream?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Make a picture for your fish tank.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To get a good look at the hidden space above a room.",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "To build a giant Jenga set",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "tissue",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "What is the best material to be used for the solar air heating box?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "how to dry flowers",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How can I give a home made dog bed shape?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To create a replica of Back to the Future's Sports Almanac.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how do you give your fingerprints at a police station?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To get bricks to stay together permanently when building a structure, you can",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Add taco filling easily.",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "Learn how to use a candy thermometer.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To smooth mayo onto raw chicken, you can",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "how do you keep blood circulating in your legs?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Make temporary hair dye for kids.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how to keep bedding wrinkle free",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To tear apart a cheeseburger, you can",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "crossing out",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "How to grow a plant.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Maximize full toothpaste.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To seal the end of a plastic tube,",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How can I get more use out of my utility knife?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To attach magnets to a piece of wood, you can",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "ask for help reading it",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To simmer water, you can",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "how to add a deeper flavor to ground beef?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To make the base for a 3D Mickey Mouse head.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "When heating milk to make cheese",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To prevent cupcakes from sticking to a pan, you can",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How do I clean car upholstery",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To get air bubbles out of cakes.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To prepare an empty 2 litter soda bottle to use as a plant pot.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How to attach a pendant to a necklace.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How do I make the pattern for the baby leather shoes?",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "how so I make apple pie chis pudding?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "clothing",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how do you smear liquid?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How to make Lemon Swirl Lemon curd fudge at home.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "how do you hydrate after working out?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "blankets",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "How can a person use images from the internet to create a Candy advent calendar?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To hold a bungee cord so it stays stretched out, you can",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How to peel an onion?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How can I get the best Bell pepper?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To make a hood for a cloak.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To make the caffeine in coffee release slowly after consumption,",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To obtain meximum deliciousness of the nutella cookies",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To hit a volleyball",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Remove pop bottle cap that is stuck on",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How to keep cool outside.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How do you make gluten free brownies?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Make a yoga mat carrier.",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "how do you sign into your chime account?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How do I lower the foot on a sewing machine?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Melt mini marshmallows.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Who wants dirt tracked inside the tent?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "napkin",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "How can I keep paint off my carpet when painting my baseboards?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "how do you wear a sweatshirt?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "toilet tissue",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Shave using an organic shaving cream",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How can I soothe my tongue if I burn it?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How do I prepare the dough for butter cookies?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "how to make smoky pretzel mix",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How do I put a game in an Xbox",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how do you change your profile picture on facbook?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How do I melt beef fat?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How to grow a new grapevine using cuttings.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how do you find out what's wrong with a car?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Detect odd car noise.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How to Raise Threadfin Rainbowfish Fry",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Install cabinet pulls.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To sprout seeds for your garden,",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how to find the perimeter of a trapezoid",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How to teach your toddler how to talk.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How to prevent BBQ chicken skin from burning on the grill?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Prevent earbuds from tangling.",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "mittens",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how to cut sticky desserts",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To cook the kebab meat on a grill",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How do you prepare fresh chicken eggs?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "aluminum foil",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "how do you strut?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Finish the concrete patio.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "safety pin",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How do I get glitter to stay on ribbon?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How can I paint stars on a black background?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To keep Boots and thick shoes dry and smelling fresh.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To open up google,",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Save money on airplane flights.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how to remove really sticky tape",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how do you distract someone?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "One wishes to make a place for their plants.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "how do you use an eraser?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To save cookie dough to use at a later date, you can",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What is the best way to check if a baby's milk isn't too hot?",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "How to roll chocolate truffles.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How to sharpen scissors easily.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "how to keep colors from fading in the wash",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how to unzip a backpack?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To prevent burning overflowed cookie batter to your oven",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "table top",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To create the force behind a DIY table top crushing press.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How to make the eyes of your diy Halloween mask?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Harvest maple syrup.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How to make the front of your DIY Viking Cardboard shield?",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "how do you return a package to sender?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To cure a hangover",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What plants work best for upcycled kitchen planters?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Making mac and cheese.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How do I build a bike wall mount?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "When doing sit-ups",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "spoons",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "dish towel",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What do you need to make a knife rust-proof?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To make honey chipotle marinade for chicken",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "telescope",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To delete a folder in a windows laptop.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How To Find a Stud in the Wall to Secure Workshop Cabinets",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "penny",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Remove oil based paints from painting tools and brushes.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Turn any cup into a travel cup",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To make a folder paper easier to mount to a wall, you can",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Hold a cheap ring.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How can you  spread butter if it is cool or too hard to spread?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To use a readily available item as a pen to run electricity through for DIY metal etching.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How to cut out square on Styrofoam ice box.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Avoid frozen wiper blades.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "To prevent a certain area of a piece of paper from being colored when applying dye, you can",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Create a Mask Armature",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What type of shirt is best used when ranger rolling a shirt?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To shoot a nail gun.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How can I stop Eye strain and help prevent headaches?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "How to remove a temporary tattoo.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How to get water out of coconut.",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how to hold a match for a fading flame",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "squinting",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "What can I use to go to London the quickest",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "table",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "How to get people to come to the carnival.",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To store your briquettes",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "What supplies are needed to make a bird sculpture out of broken CDs?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "How to remove water stains from shower glass?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "how do you use a chip on a debit card?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "To make dry shampoo",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  }
+]

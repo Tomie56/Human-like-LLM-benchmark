@@ -1,0 +1,7 @@
+{
+  "model": "llama",
+  "task": "piqa",
+  "accuracy": 0.928,
+  "correct": 232,
+  "total": 250
+}

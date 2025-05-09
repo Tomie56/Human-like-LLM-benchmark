@@ -1,0 +1,7 @@
+{
+  "model": "glm",
+  "task": "piqa",
+  "accuracy": 0.904,
+  "correct": 226,
+  "total": 250
+}

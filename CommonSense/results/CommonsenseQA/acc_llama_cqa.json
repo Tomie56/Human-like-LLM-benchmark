@@ -1,0 +1,7 @@
+{
+  "model": "llama",
+  "task": "cqa",
+  "accuracy": 0.84,
+  "correct": 210,
+  "total": 250
+}

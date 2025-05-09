@@ -1,0 +1,7 @@
+{
+  "model": "glm",
+  "task": "socialiqa",
+  "accuracy": 0.828,
+  "correct": 207,
+  "total": 250
+}

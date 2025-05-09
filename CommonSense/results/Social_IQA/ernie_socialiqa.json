@@ -1,0 +1,1752 @@
+[
+  {
+    "question": "Tracy didn't go home that evening and resisted Riley's attacks. What does Tracy need to do before this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Sydney walked past a homeless woman asking for change but did not have any money they could give to her. Sydney felt bad afterwards. How would you describe Sydney?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Sasha protected the patients' rights by making new laws regarding cancer drug trials. What will patients want to do next?",
+    "answerKey": "B",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "Jordan was in charge of taking the food on the camping trip and left all the food at home. How would Jordan feel afterwards?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Kendall opened their mouth to speak and what came out shocked everyone. How would you describe Kendall?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Aubrey never told Riley the answer and Riley was angry. How would you describe Aubrey?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Kendall's dog was overweight so they walked it five miles. Why did Kendall do this?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Kendall got a new sports car and could not wait to show friends. What will Kendall want to do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Riley layered down their arms with a blanket to keep warm. What does Riley need to do before this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Austin knew Quinn intimately and they slept together many times. Why did Austin do this?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Carson kissed Alex gently on the cheek and asked to go to dinner. What will happen to Carson?",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "Alex walked Robin towards the execution chamber for her last meal. Why did Alex do this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Carson was excited to wake up to attend school. Why did Carson do this?",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "Taylor proved Carson's point about who was the stronger wrestler of them all. What will Taylor want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Sydney went trick or treating and the others joined him happily. What will Others want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Sasha set their trash on fire to get rid of it quickly. How would you describe Sasha?",
+    "answerKey": "B",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "Robin dried up the paper and lit it on fire and it blew away. How would Robin feel afterwards?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Skylar went camping with friends and found the best campsite. What does Skylar need to do before this?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Due to his car breaking down, Robin decided to ride with Jan's friends to school. What will Robin want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Cameron took Kai's compliment seriously after the ballgame ended. How would you describe Cameron?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Jordan taught art in elementary schools and was really great with his students. How would the parents feel as a result?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Riley and the others were the best of friends and always supported each other. What will happen to Others?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Taylor gave help to a friend who was having trouble keeping up with their bills. What will their friend want to do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Riley had twisted their leg and began to hurt so bad that they could not walk. What does Riley need to do before this?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Carson was at a friend's house but suddenly announced they needed to go home. Why did Carson do this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Taylor taught math in the schools after studying to be a teacher for four years. What does Taylor need to do before this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Tracy led their army and fought hard in the war until they sat upon the throne. How would you describe Tracy?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Kendall watched baseball with his friends after working hard all week at his job. What will Kendall want to do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "kai was bored and had nothing to do so he played card games. What will Kai want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Robin changed Aubrey into clean clothes, so they can both go to the big play. What will Robin want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Kendall wrapped string around my neck to measure the collar of a shirt. What will Others want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Aubrey gave it to Kai's friend. Kai had thought for sure and hoped that she would get it instead. How would Kai feel as a result?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "jan took them to NYC so that they could experience the city for the first time. What will Others want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Tracy threw a fit on the couch while watching the history channel because they got a lot of details wrong. Why did Tracy do this?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "carson hated lee and his family so he took the risk to injure lee. How would you describe Carson?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Robin stayed outside and tried to finish the game of volleyball she was playing. How would Robin feel afterwards?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Carson returned to Robin's house after previously storming out during a huge fight. How would Carson feel afterwards?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Robin didn't know why she was having bad luck but found the answer. How would Robin feel afterwards?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Jordan's son was growing out of their shoes. Jordan took their son to the shoe store. How would Jordan's son feel as a result?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "ash was cut short even though everyone wanted to hear what ash had to say. What will happen to Others?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Jordan was talking to a group of friends. Jordan talked behind Ash's back to fit in. What will happen to Jordan?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "jordan wanted to be nice to a girl so he took her to the shoe store. What does Jordan need to do before this?",
+    "answerKey": "B",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "Aubrey understood Remy better and met his needs more efficiently as his nurse. How would Remy feel as a result?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Aubrey kept the baby up at night to watch for a concussion. What will happen to Aubrey?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Robin shut Riley's eyes to the fact that he didn't want her to see the sex scene from the movie. How would Riley feel as a result of this?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Quinn wrapped their arms around Jordan before pulling out the gift that they had been hiding. What does Quinn need to do before this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Bailey passed Jesse on his driving examination after he passed with flying colors. What does Bailey need to do before this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Austin was taking a test and found it difficult at first. How would you describe Austin?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Quinn was playing and froliking in the snow, making snow angels and snowballs. How would you describe Quinn?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Tracy gave money to my friend who needed it but failed to by it back as they promised. What will happen to Tracy?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Camerson was grading Bailey's research paper. Cameron felt satisfied with Bailey's work. How would you describe Cameron?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Skylar was pushed by the bully in the lunch line, so Skylar poured milk over their head. What will Skylar want to do next?",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Remy gave you Skylar account for netflix, so you wouldn't have to pay for your own account. How would you describe Remy?",
+    "answerKey": "C",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Skylar was on the phone while at the national park. They lent little attention to the view. What will Skylar want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Sydney works as a preschool teacher, and helped trace Robin's fingers. Why did Sydney do this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Jan was pregnant and she gave birth to a beautiful baby daughter. How would you describe Jan?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Kendall was really into house plants and often pour water in to jars so the fluoride would evaporate out. What will Kendall want to do next?",
+    "answerKey": "A",
+    "model_output": "A\n\nExplanation:\nKendall was really into house plants, which indicates that she has an interest in taking care of plants. The next action that aligns with her interest would be related to plants. The options are:\n\nA. watered a few of the plants - This option directly relates to her interest in house plants as watering plants is a common activity in plant care.\n\nB. gather jars - Although gathering jars might be a preparatory step for some activities, it does not directly relate to her immediate interest in house plants.\n\nC. watered a few of her pets - This option relates to pets, not plants, and therefore does not align with her current focus on house plants.\n\nBased on the information provided, the most appropriate next action for Kendall would be to water a few of the plants, as it directly relates to her interest in house plants.",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Knowing skylar would want to go too, Kendall took Skylar into account. Why did Kendall do this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Aubrey was a police officer. She pulled Casey over for speeding in a construction zone. What will Casey want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Riley granted Jan the highest title of the kingdom and celebrated with a feast. What will Jan want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "After being kicked out of the house by his parents, Jordan needed a place to live. How would you describe Jordan?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Remy gave birth to a baby girl on a Saturday afternoon. What does Remy need to do before this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Alex was no longer raising Sasha but she did give birth to Sasha. What will Alex want to do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Jordan gave Robin advice about a job interview as Jordan already worked at the company and knew the questions that would be asked at teh interview stage. How would Robin feel afterwards?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Cameron went out of her way to buy food for the homeless. How would Cameron feel afterwards?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Sydney played Kendall's heart when she pretended to be interested in him at the party. What will happen to Kendall?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Cameron's parents told them to do well at school or they would be grounded.  Cameron took their words seriously. What will happen to Cameron?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Jan took me to NYC to celebrate my birthday before the baby was born. What will Others want to do after?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "It was a pretty sunny day outside. Quinn walked instead. What does Quinn need to do before this?",
+    "answerKey": "C",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Kai was grounded after wrecking his mother's car so he handed back the keys. What will Kai want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Jordan got his leg bitten off by a shark while he was surfing. Jordan made light of the handicap. Why did Jordan do this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Kendall knew that Skylar has a difficult work schedule and needed to accomodate that when planning the vacation. How would Skylar feel as a result?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "But she didn't want to be on the team so walked off the court. Why did Aubrey do this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Carson was at a friend's house across town from where he lived playing video games. How would Carson feel afterwards?",
+    "answerKey": "A",
+    "model_output": "A\n\nExplanation:\n\nGiven the scenario, Carson was at a friend's house playing video games, and this activity was likely enjoyable for him, as indicated by his participation. When considering how he might feel after this activity, it's reasonable to assume that he would be reluctant to stop doing something he enjoys.\n\nOption A, \"sad that he will have to stop playing video games,\" aligns with this reasoning. It suggests that Carson might feel a sense of disappointment or sadness when the activity ends, which is a common emotional response after engaging in something enjoyable.\n\nOption B, \"too dark outside,\" does not directly relate to Carson's emotional state after playing video games. While it describes a possible environmental condition, it does not reflect how Carson would feel internally.\n\nOption C, \"ready to go for a short stroll back to his home,\" suggests a specific action rather than an emotional state. It's possible that Carson might feel this way, but the scenario does not provide enough information to indicate that he would specifically be ready for a walk, especially considering the distance implied by \"across town.\"\n\nTherefore, based on the information provided and typical emotional responses to enjoyable activities, Option A is the most appropriate answer.",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Kendall took their dog to the new dog park in the neighborhood. What will Kendall want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Robin's brother was hungry, too, so Robin cut the sandwich in half. How would Robin feel afterwards?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Addison regarded every girl as somebody who should be treated by their actions. How would Others feel as a result?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Remy challenged them to a game and then beat them so much. How would they feel as a result?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Casey gave some money to Jesse so she could go to the movie. How would you describe Casey?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Lee gave birth to ten babies over a span of ten years. How would you describe Lee?",
+    "answerKey": "C",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Cameron wore some very heavy clothes even thought it was hot outside and he would sweat heavily outside. How would Others feel as a result?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Remy understood every mystery because she was a famous mystery writer. What will Others want to do after?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Kendall persisted after being told no, and eventually had a positive effect on Lee. What will Lee want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Alex worshiped Jesus in their way even though everyone said it was the wrong way to do it. What will Alex want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Cameron got a new video game and wanted to spend the night playing it. How would Cameron feel afterwards?",
+    "answerKey": "C",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "Alex grew closer to their significant other after they vacationed together. How would Alex feel afterwards?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Aubrey got gas at the station and got some snacks for the drive. Why did Aubrey do this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Riley regarded Jesse with observant eyes then smiled after they ate the last cookie. How would you describe Riley?",
+    "answerKey": "B",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "Aubrey fed Tracy's kids spaghetti after the baseball practice. How would Tracy feel as a result?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Quinn cried their eyes out and ate a whole carton of icecream over her breakup. What will Quinn want to do next?",
+    "answerKey": "C",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "remy had a good talk with aubrey so aubrey understood remy better now. How would Remy feel as a result?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Alex took care of the children after school so that their parents could continue to work. What will Alex want to do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Taylor taught math in the schools where underprivileged children studied. How would Taylor feel afterwards?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Jan fastened the anniversary necklace around Sydney's neck, amid her tears of joy and exclamations of how beautiful it was. What will Sydney want to do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Kendall didn't get the job despite the interviewer telling her she was qualified. How would the interviewer feel as a result?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Riley talked to their friends about what they should do that night. Why did Riley do this?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Remy went into town and found a fun place to get treats and ate some ice cream. What does Remy need to do before this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Carson was at a friend's house playing video games to get away from his arguing parents. What does Carson need to do before this?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Taylor taught math in the schools and got a lot of praise for his style of teaching. Why did Taylor do this?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Robin pulled Carson over for speeding and then didnt write him a ticket. Why did Robin do this?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Robin left food out for the animals in her backyard to come and enjoy. What will Robin want to do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Alex spent a minute thinking and finally decided to take action over it. Why did Alex do this?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Bailey was not doing well at work but wanted to change the perspective to feel better. How would you describe Bailey?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Sydney is a fan of Hillary Clinton. One day she found a biography of Hillary Clinton. Sydney wanted to read it. Why did Sydney do this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Cameron left the Halloween party early and drove home as fast as they could. Why did Cameron do this?",
+    "answerKey": "C",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "Kendall lost their shirt and walked around topless. How would you describe Kendall?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Taylor got louder as they raised their voice because of the altercation. Why did Taylor do this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Kai knew that things were getting out of control and managed to keep his temper in check. How would Others feel as a result?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Tom gave Sydney a red scarf. Sydney set it on fire. How would you describe Sydney?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Austin built a mall on the site where the ruins were found. What does Austin need to do before this?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "aubrey helped sasha move because they were good friends and sasha needed help. How would Sasha feel as a result?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Cameron arrived at the restaurant and sat at their table. What will Cameron want to do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Alex and his brother didn't have much in common. They went on a camping trip and Alex grew closer to their brother. How would Others feel as a result?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Remy, their partner Joe and family were out for dinner when Joe suddenly asked Remy to marry them.  Remy smiled and answered the question happily saying yes of course. What will Others want to do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Riley was in pain. How would Riley feel afterwards?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Jesse is patient and hardworking and hungry in the morning. How would you describe Jesse?",
+    "answerKey": "B",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "Ash and Sasha have been dating for a long time. Why did Ash do this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Tracy understood Casey's mood better once they sat down and talked it out together. What will Casey want to do next?",
+    "answerKey": "C",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "Robin took a very long time to make up their mind of what to wear on their date that night. What will Robin want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Bailey was a new student at the local high school in town. How would Others feel as a result?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Skylar ate too much sweets and chocolate and drank too much sugary juice and the dentist told her she had a cavity. How would you describe Skylar?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Aubrey fed Tracey's kids ice cream after Tracey said the kids were allergic. What will happen to Aubrey?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Quinn cried their eyes out because no one loved them at all. How would Quinn feel afterwards?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Riley had a lot of friends. What will happen to Riley?",
+    "answerKey": "A",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "Sasha grabbed Robins head and gave it a good shake. Why did Sasha do this?",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Jesse wanted to get fresh apples and went apple picking at the local farm. How would you describe Jesse?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Bailey asked Sasha's grandma if they could eat the cookies now. Why did Bailey do this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Jesse hired Bailey to impersonate to take the SATs. What does Bailey need to do before this?",
+    "answerKey": "A",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "Skylar was getting close to the deadline, so Skylar put their mind to the task. Why did Skylar do this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Cameron and Aubrey were dancing at a friend's wedding, then the music changed to a slow song and Cameron threw Aubrey's arms around them and started swaying. What will Cameron want to do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Riley laid down their arms and issued a long but effective peace treaty to be signed. What will Riley want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "There was a fire, Sasha grabbed the extinguisher and saved the home from destruction. How would you describe Sasha?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Remy told Kai that they wanted to go out with them on a serious date. How would you describe Remy?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Skylar wasn't very good at the game and ended up losing their character. What will Skylar want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Addison could not find a coupon to IHOP. They felt bad about it. What will Addison want to do next?",
+    "answerKey": "B",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "Jordan shared their experience with the party. He lost 3 levels doing so. What will happen to his party members?",
+    "answerKey": "C",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "Jordan wanted to tell Tracy a secret, so Jordan leaned towards Tracy. Why did Jordan do this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Jordan paid his debt to society by completing several hours of community service. What does Jordan need to do before this?",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "Skylar put their mind to the task because it was complicated and required full attention. What will Skylar want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Aubrey met a creepy stranger at the park who was trying to get Aubrey to go home with them. What will happen to Others?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Addison threw a pie on the character to make the play more humorous. Why did Addison do this?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Jan lit a fire under her coworkers because they wanted to start a fight. What will Jan want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Alex rendered Sasha's service and was pleased with her attention to detail. What will Alex want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Casey ordered a package with priority shipping but two weeks passed and Casey never received the package. What will Casey want to do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Sasha got revenge on her friends for the trick they played on her. How would Others feel as a result?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Skylar got a cast on her leg because they were in a car accident. What will Skylar want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Carson shook Jan's head again after she was very angry at him. Why did Carson do this?",
+    "answerKey": "C",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "Remy left their money on a foreign bank account that was overseas. Why did Remy do this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Casey wrapped Sasha's hands around him because they are in a romantic relationship. How would you describe Casey?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Kai was only trying to make fun of Cameron although Cameron took Kai's compliment seriously. How would Cameron feel afterwards?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Kendall showed off her new car to all of their friends. How would their friends feel as a result?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Taylor gave Kai a lot to think about. What will happen to Taylor?",
+    "answerKey": "B",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "Riley required every detail of the new project but he only received a partial specification. How would Riley feel afterwards?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Riley was coming home from work and suddenly began to hurt all over. How would you describe Riley?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Carson tried to fight Robin last night because Robin hurt Carson a lot. What will Carson want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "remy trusted the bank with his money so he left the money on an account. How would Others feel as a result?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Kai made a career out of his hobby of crafting wood furniture by hand. How would you describe Kai?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Jordan left their book in the library after studying all day. What will Jordan want to do next?",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Jesse showed off her brand new car to Sydney's friends to make the jealous. How would you describe Jesse?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Taylor decided to take the bus based on their experience with the traffic. How would you describe Taylor?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Sydney gave Aubrey an estimate for how much their house is worth. What will Aubrey want to do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Quinn knew Ash well enough that they broken into and stole a jacket from Ash's locker. How would Quinn feel afterwards?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Cameron picked Robin up from the airport after Robin spent many years living in oversea. Why did Cameron do this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Alex paid money to get some expert advice on all of the details. Why did Alex do this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Aubrey was a police officer that pulled a driver over for speeding down the highway one day. What will Aubrey want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Jordan took their mother to the shoe store to buy new shoes for running. How would Jordan feel as a result?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "The beat was so funky and so fresh that Austin moved their body to the music. Why did Austin do this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Austin just got a big bonus from the company. What will happen to Others?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "After the first solution failed, Robin had to brainstorm a better idea. What will Others want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Jan went out with Quinn's friends, but left because they had work in the morning. Why did Jan do this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Taylor made a cake that was their mother's favorite.  It was their mother's birthday. How would you describe Taylor?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Jesse made some bad decisions in life and Lee stopped talking to them. How would Lee feel as a result?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Riley was Jesse's girlfriend and had just found out Jesse was cheating on them. What will happen to Riley?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Austin gave birth on Sunday, and was home with the new baby my Tuesday. What does Austin need to do before this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Remy was a hard worker at an insurance company. They were working late. Why did Remy do this?",
+    "answerKey": "B",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "Remy saved the town from destruction after the tornado had hit. How would Others feel as a result?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "An old woman dropped her groceries outside of the store, Cameron went out of her way to help the woman collect her items. Why did Cameron do this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "After graduating high school and being accepted to college, Casey decided to study philosophy, because Casey valued ethics highly. What does Casey need to do before this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Rylie is teaching Sasha how to swim.  Riley told Sasha to hold her breath. How would Riley feel afterwards?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Aubrey was practicing singing and they sound really good. What will Aubrey want to do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "kendall was a hard worker so she kept the ball rolling on the project. Why did Kendall do this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Jordan took their son to the shoe store to get some soccer shoes. What does Jordan need to do before this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "After Bailey went to bed, Carson crept into the kitchen and ate Bailey's candy. Why did Carson do this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Quinn moved into a new house after their old one burned down in a fire. How would Quinn feel afterwards?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Kai decided to stay at the beach house an extra week. Why did Kai do this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Remy understood every word of what their teacher was teaching. How would you describe Remy?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Feeling a bit bored and tired, Kai watched anything. What will Kai want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Aubrey was practicing singing and they sound really good. What will Aubrey want to do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Riley was the best of friends with the boy and the others were relieved they had someone to lean on. What will Others want to do next?",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Skylar was sick and had to cancel concert plans with Sydney. What will Sydney want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Jan lit a fire under her coworkers for slacking off a lot. How would Jan feel afterwards?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Sydney was writing the story creatively and wanted to give the reader Riley's perspective. Why did Sydney do this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Quinn knew what was going on after seeing the cashier stealing from the till. What will Quinn want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Skylar entered the classroom at school and made fun of everyone for being there on time. What will Others want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Jan gave Sydney a necktie and Sydney put it on and it looked really good. What does Jan need to do before this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Addison went fishing and brought her brother with her. What will Addison want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Jordan taught the children nutrition and brought new foods for them to try which affected the children's health. What will Jordan do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Tracy wanted something to do over the weekend. Tracy went camping during the weekend. Why did Tracy do this?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Sydney is Addison's boyfriend at the local high school. What will happen to Addison?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Riley was on the beach near some birds that just flew away. They went after them. What does Riley need to do before this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "As usual, Aubrey went to the park but this morning, he met a stranger at the park who jogged with him. What will Others want to do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Jesse stood Cameron up instead of backing the person who was accusing him of stealing money. How would Cameron feel as a result?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Jesse is very angry with Riley and says some pretty awful things. Riley looks at Jesse with hurt filled eyes. What emotion is Riley likely experiencing?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Remy answered the question that was intended for someone else. How would someone else feel as a result?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Austin predicted cancer rates in patients would continue to go down due to the new breakthrough treatment they developed. How would Austin feel afterwards?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Kendall altered Lee's course of action after seeing a grave mistake in his plans. How would Kendall feel afterwards?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Quinn was spending the day in the park with their friends. What will Quinn want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Bailey felt bad when she saw the homeless lady and gave her twenty dollars. How would you describe Bailey?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Taylor asked the one officer for help in unlocking their car. How would you describe Taylor?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Carson was not exhibiting proper behavior in the military. Austin went ahead and discharged Carson of his duty. How would Austin feel afterwards?",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Tracy gave it to their friend because they weren't going to need it anymore. What does Tracy need to do before this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Alex grew closer to their cousin and spent less time with the others. How would Others feel as a result?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Jan wanted to help some low income kids go to summer camp. Jan raised money to help. How would Jan feel as a result?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Taylor had not had contact with this friend for ten years and wonder how their life was going. How would Taylor feel afterwards?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Tracy heard a faint buzzing noise and immediately ran for her life. How would you describe Tracy?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "While reading a story about animal abuse, Quinn felt a lot of pain. How would you describe Quinn?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Alex saw Taylor talking to another guy at the dance that night. What will Alex want to do next?",
+    "answerKey": "C",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Robin was too embarrassed to explain so she let Carson explain why it happened. What will happen to Carson?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Riley and Sydney are best friends, Riley sold Sydney's painting to the bidder after she stole it from her house. What will happen to Sydney?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Taylor's friend was grieving the loss of his grandfather last week. What will happen to Taylor?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Jesse showed Sydney's friends how to bake a cake but it was left in the oven too long and burned. What will Jesse want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Sasha had gotten a tutor to help her with history. Sasha started to improve slowly. What does Sasha need to do before this?",
+    "answerKey": "A",
+    "model_output": "A\n\nExplanation:\nThe sentence states that Sasha had gotten a tutor to help her with history and then started to improve slowly. This suggests that Sasha was facing difficulties in history before getting the tutor.\n\nA. needed to be doing poorly - This option fits the context because if Sasha was improving after getting a tutor, it implies she was doing poorly before.\n\nB. needed to take a class - Taking a class is not a prerequisite for getting a tutor. Sasha could have been taking a class and still doing well, or she could have been studying independently and doing poorly. This option does not directly relate to the need for a tutor.\n\nC. thank the tutor - This is something Sasha might do after improving, not before getting a tutor. It is a result of the improvement, not a prerequisite for it.\n\nTherefore, the most appropriate answer is A. Sasha needed to be doing poorly in history before getting a tutor to help her improve.",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Tracy brought the kids to their dentist appointment, but it was scheduled during the school day. What does Tracy need to do before this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Jan wanted to make friends so she exchanged phone numbers with people she met. How would Jan feel afterwards?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Sasha and others noticed Bob didnt have money for lunch. Sasha gave Bob some french fries. What will Others want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Casey's mother called Casey to tell her that she sent her a package by mail. What does Casey need to do before this?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Kai sold their clothes to the bidder at an auction when they didn't fit. What will Kai want to do next?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Casey paid Jesse for the items they bought from them. What will Casey want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Aubrey was walking in the park one day. Aubrey met a stranger at the park when she stopped at the pond. How would Aubrey feel afterwards?",
+    "answerKey": "C",
+    "model_output": "A or C\n\nExplanation:\nAubrey's feelings after meeting a stranger at the park can vary based on the context and Aubrey's personality. Given the options, Aubrey might feel \"anxious\" (A) if she is generally cautious or uneasy about meeting strangers, or if the stranger's behavior was unusual or threatening. On the other hand, Aubrey might feel \"happy\" (C) if she is an outgoing person who enjoys meeting new people, or if the interaction with the stranger was pleasant and friendly. The option \"naive\" (B) does not directly relate to Aubrey's emotional response in this situation, as it describes a lack of experience or understanding rather than a specific feeling. Therefore, the most appropriate answers are A or C, depending on Aubrey's individual reaction to the encounter. Since the question asks for a single letter, I would choose C as a more neutral and positive option, assuming the encounter was not described as negative or threatening.",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "Alex helped Casey escape from the jail cell. What will happen to Casey?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Carson tried to fight Robin last night while they were at a bar. How would Carson feel afterwards?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Carson ate Bailey's candy and took a nice long nap after eating the candy. What will happen to Carson?",
+    "answerKey": "B",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "Kendall grabbed Jordan's hands because Jordan was going to cross the street without looking. What will Jordan want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Quinn was starting to get the strength back in his legs after months of physical therapy. How would Quinn feel afterwards?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Jordan felt bad after vandalizing a building so they paid their debt to society by cleaning up everything they had done. How would you describe Jordan?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Jan and their partner were going to a big new year's party at a bar downtown. Jan decided to leave the car keys at home and take a taxi. Why did Jan do this?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Tracy saw a robbery so he ran for his life to the police station where he was asked to fill out a report about the crime. What will Tracy want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Kendall's shirt was very expensive, and they lost it over there. How would Kendall feel afterwards?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Lee challenged her to a fight by pointing his sword in her direction. What will she want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Alex had been caught up in many crimes so one day Alex escaped to Mexico. What will Others want to do next?",
+    "answerKey": "A",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": false
+  },
+  {
+    "question": "Sydney appeared wounded, on the ground, so Kia Crowded around Sydney to assess the damage. What does Kai need to do before this?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Taylor wanted to break up Kai's romance with Tom, and spread rumors. What will happen to Kai?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Robin let Carson explain to their parents what had happened at school. What does Robin need to do before this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Sasha heard a rumor and acted on it and saved their company from destruction. Why did Sasha do this?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Riley sold Sydney's painting to the bidder, but they didn't have enough money. What will Riley want to do next?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  },
+  {
+    "question": "Casey's children were playing in a park next to Jesse's house. Where will Casey take the children?",
+    "answerKey": "A",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": false
+  },
+  {
+    "question": "Sydney went to our family farm, taking the trash with her, and set it on fire on the ground. How would Sydney feel afterwards?",
+    "answerKey": "C",
+    "model_output": "C",
+    "predicted": "C",
+    "correct": true
+  },
+  {
+    "question": "Austin was having a great day and felt wonderful. What will Austin want to do next?",
+    "answerKey": "B",
+    "model_output": "B",
+    "predicted": "B",
+    "correct": true
+  },
+  {
+    "question": "Austin just proved a way to predict cancer rates irrefutably. What will Others want to do next?",
+    "answerKey": "C",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": false
+  },
+  {
+    "question": "Carson dropped the whole pizza on the floor. Carson was at a friend's house. How would Carson feel afterwards?",
+    "answerKey": "A",
+    "model_output": "A",
+    "predicted": "A",
+    "correct": true
+  }
+]

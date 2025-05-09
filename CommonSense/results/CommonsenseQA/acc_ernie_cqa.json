@@ -1,0 +1,7 @@
+{
+  "model": "ernie",
+  "task": "cqa",
+  "accuracy": 0.88,
+  "correct": 220,
+  "total": 250
+}

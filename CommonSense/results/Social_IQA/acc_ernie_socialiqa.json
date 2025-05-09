@@ -1,0 +1,7 @@
+{
+  "model": "ernie",
+  "task": "socialiqa",
+  "accuracy": 0.868,
+  "correct": 217,
+  "total": 250
+}

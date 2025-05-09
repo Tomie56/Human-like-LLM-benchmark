@@ -1,0 +1,7 @@
+{
+  "model": "qwen",
+  "task": "piqa",
+  "accuracy": 0.956,
+  "correct": 239,
+  "total": 250
+}
